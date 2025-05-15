@@ -28,8 +28,8 @@ Currently focused on sharpening my skills in **real-time analytics**, **cloud-na
 
 Here are a few pinned projects from my GitHub that showcase my skills:
 
-- 📊 [**EDA on Netflix Dataset**](https://github.com/Amarnath27me/Netflix-EDA)  
-  Performed exploratory data analysis to uncover trends in Netflix content using Python and Seaborn.
+- 📊 [**EDA on Student Performance**](https://github.com/Amarnath27me/Student-Performance-Data-Analytics)  
+  Performed exploratory data analysis to uncover trends in Students Performance using Python and matplotlib.
 
 ---
 
