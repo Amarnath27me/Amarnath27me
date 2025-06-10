@@ -30,9 +30,10 @@ Here are a few pinned projects from my GitHub that showcase my skills:
 
 - 📊 [**EDA on Student Performance**](https://github.com/Amarnath27me/Student-Performance-Data-Analytics)  
   Performed exploratory data analysis to uncover trends in Students Performance using Python and matplotlib.
-  
--📊 [**Netflix Data Analysis**](https://github.com/Amarnath27me/Netflix_Data_Analysis)
-  Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset. 
+
+- 📊 [**Netflix Data Analysis**](https://github.com/Amarnath27me/Netflix_Data_Analysis) 
+  Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset.
+
 
 ---
 
