@@ -7,10 +7,16 @@
 
 ## 🚀 About Me
 
-I'm a data enthusiast who loves turning raw datasets into meaningful insights that drive business decisions. With a strong foundation in **data analytics, cloud computing, and data engineering**, I specialize in building robust pipelines and intuitive dashboards to help organizations make data-driven decisions.
+IData-driven professional passionate about turning messy data into strategic insight.
+Currently building real-world data analytics and data engineering skills through hands-on projects — from data pipelines and warehouses to SQL and Python-based analysis. Strong focus on practical, clean code and solving business-relevant problems. Actively learning modern analytics tooling and engineering best practices.
 
-Currently focused on sharpening my skills in **real-time analytics**, **cloud-native data workflows**, and **machine learning**.
+🔍 What I do:
+• Build end-to-end data solutions — ETL/ELT pipelines, data modeling & analytics
+• Analyze and visualize datasets to uncover meaningful patterns
+• Write clean, reproducible code in Python, SQL, and notebook environments
+• Continuously improve with new tools & industry standards
 
+💡 I’m driven by impact — not just completion. My work reflects careful thought about the problem, methodology, and results achieved.
 ---
 
 ## 🧰 Tech Stack
@@ -18,8 +24,8 @@ Currently focused on sharpening my skills in **real-time analytics**, **cloud-na
 - **Languages & Tools:** Python, SQL, R, Excel  
 - **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - **BI & Visualization:** Power BI, Tableau  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud & Big Data:** AWS (S3, Redshift), Hadoop, Spark  
+- **Databases:** PostgreSQL, MySQL, MongoDB 
+- **Cloud & Big Data:** AWS, Hadoop, Spark , Snowflake, Databricks, AZURE, GCP 
 - **Other Tools:** Git, JIRA, ETL Tools, Agile Methodologies
 
 ---
@@ -28,12 +34,17 @@ Currently focused on sharpening my skills in **real-time analytics**, **cloud-na
 
 Here are a few pinned projects from my GitHub that showcase my skills:
 
+- 📊 [**Netflix ELT & dbt Data Pipeline**](https://github.com/Amarnath27me/Netflix-ELT-dbt-Pipeline)  
+  ELT pipeline demo using dbt tailored around Netflix data flows and transformations..
+
+- 📊 [**Data Warehouse and Analytics Project**](https://github.com/Amarnath27me/data-warehouse-project-sql) 
+  SQL-focused project building a modern data warehouse with modelling and ETL logic.
+
 - 📊 [**EDA on Student Performance**](https://github.com/Amarnath27me/Student-Performance-Data-Analytics)  
   Performed exploratory data analysis to uncover trends in Students Performance using Python and matplotlib.
-
+  
 - 📊 [**Netflix Data Analysis**](https://github.com/Amarnath27me/Netflix_Data_Analysis) 
   Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset.
-
 
 ---
 
