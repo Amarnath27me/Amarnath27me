@@ -1,65 +1,18 @@
-# 👋 Hi, I'm Amarnath Allamraju
+# 💫 About Me:
+👋 Hi, I'm Amarnath Allamraju<br><br>🎓 Master’s in Applied Data Management & Analytics | Purdue University<br>📍 Based in the U.S. | Open to Data Analyst, Business Analyst, and Data Engineer roles.<br><br>Data-driven professional passionate about turning messy data into strategic insight.<br>Currently building real-world data analytics and data engineering skills through hands-on projects — from data pipelines and warehouses to SQL and Python-based analysis. Strong focus on practical, clean code and solving business-relevant problems. Actively learning modern analytics tooling and engineering best practices.<br><br>🔍 What I do:<br>• Build end-to-end data solutions — ETL/ELT pipelines, data modeling & analytics<br>• Analyze and visualize datasets to uncover meaningful patterns<br>• Write clean, reproducible code in Python, SQL, and notebook environments<br>• Continuously improve with new tools & industry standards<br><br>💡 I’m driven by impact — not just completion. My work reflects careful thought about the problem, methodology, and results achieved.
 
-🎓 Master’s in Applied Data Management & Analytics | Purdue University  
-📍 Based in the U.S. | Open to Data Analyst, Business Analyst, and Data Engineer roles
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amarnathallamraju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarnathallamrajar@gmail.com) 
 
-## 🚀 About Me
-
-Data-driven professional passionate about turning messy data into strategic insight.
-Currently building real-world data analytics and data engineering skills through hands-on projects — from data pipelines and warehouses to SQL and Python-based analysis. Strong focus on practical, clean code and solving business-relevant problems. Actively learning modern analytics tooling and engineering best practices.
-
-🔍 What I do:
-• Build end-to-end data solutions — ETL/ELT pipelines, data modeling & analytics
-• Analyze and visualize datasets to uncover meaningful patterns
-• Write clean, reproducible code in Python, SQL, and notebook environments
-• Continuously improve with new tools & industry standards
-
-💡 I’m driven by impact — not just completion. My work reflects careful thought about the problem, methodology, and results achieved.
----
-
-## 🧰 Tech Stack
-
-- **Languages & Tools:** Python, SQL, R, Excel  
-- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **BI & Visualization:** Power BI, Tableau  
-- **Databases:** PostgreSQL, MySQL, MongoDB 
-- **Cloud & Big Data:** AWS, Hadoop, Spark , Snowflake, Databricks, AZURE, GCP 
-- **Other Tools:** Git, JIRA, ETL Tools, Agile Methodologies
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amarnath27me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amarnath27me&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath27me&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Amarnath27me&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-Here are a few pinned projects from my GitHub that showcase my skills:
-
-- 📊 [**Netflix ELT & dbt Data Pipeline**](https://github.com/Amarnath27me/Netflix-ELT-dbt-Pipeline)  
-  ELT pipeline demo using dbt tailored around Netflix data flows and transformations.
-
-- 📊 [**Data Warehouse and Analytics Project**](https://github.com/Amarnath27me/data-warehouse-project-sql) 
-   SQL-focused project building a modern data warehouse with modelling and ETL logic.
-
-- 📊 [**EDA on Student Performance**](https://github.com/Amarnath27me/Student-Performance-Data-Analytics)  
-  Performed exploratory data analysis to uncover trends in Students Performance using Python and matplotlib.
-  
-- 📊 [**Netflix Data Analysis**](https://github.com/Amarnath27me/Netflix_Data_Analysis) 
-   Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset.
-
----
-
-## 📈 GitHub Stats
-
-![Amarnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarnath27me&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath27me&layout=compact)
-
----
-
-## 🤝 Let’s Connect
-
-- 📧 Email: amarnathallamraj@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amarnathallamraju27/)  
-
-
-Thanks for stopping by! ⭐ Feel free to check out my projects and contributions.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
