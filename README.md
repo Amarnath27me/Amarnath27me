@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-IData-driven professional passionate about turning messy data into strategic insight.
+Data-driven professional passionate about turning messy data into strategic insight.
 Currently building real-world data analytics and data engineering skills through hands-on projects — from data pipelines and warehouses to SQL and Python-based analysis. Strong focus on practical, clean code and solving business-relevant problems. Actively learning modern analytics tooling and engineering best practices.
 
 🔍 What I do:
@@ -35,16 +35,16 @@ Currently building real-world data analytics and data engineering skills through
 Here are a few pinned projects from my GitHub that showcase my skills:
 
 - 📊 [**Netflix ELT & dbt Data Pipeline**](https://github.com/Amarnath27me/Netflix-ELT-dbt-Pipeline)  
-  ELT pipeline demo using dbt tailored around Netflix data flows and transformations..
+  ELT pipeline demo using dbt tailored around Netflix data flows and transformations.
 
 - 📊 [**Data Warehouse and Analytics Project**](https://github.com/Amarnath27me/data-warehouse-project-sql) 
-  SQL-focused project building a modern data warehouse with modelling and ETL logic.
+   SQL-focused project building a modern data warehouse with modelling and ETL logic.
 
 - 📊 [**EDA on Student Performance**](https://github.com/Amarnath27me/Student-Performance-Data-Analytics)  
   Performed exploratory data analysis to uncover trends in Students Performance using Python and matplotlib.
   
 - 📊 [**Netflix Data Analysis**](https://github.com/Amarnath27me/Netflix_Data_Analysis) 
-  Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset.
+   Performed an end-to-end exploratory data analysis project using the Netflix catalog dataset.
 
 ---
 
