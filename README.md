@@ -1,18 +1,154 @@
-# 💫 About Me:
-👋 Hi, I'm Amarnath Allamraju<br><br>🎓 Master’s in Applied Data Management & Analytics | Purdue University<br>📍 Based in the U.S. | Open to Data Analyst, Business Analyst, and Data Engineer roles.<br><br>Data-driven professional passionate about turning messy data into strategic insight.<br>Currently building real-world data analytics and data engineering skills through hands-on projects — from data pipelines and warehouses to SQL and Python-based analysis. Strong focus on practical, clean code and solving business-relevant problems. Actively learning modern analytics tooling and engineering best practices.<br><br>🔍 What I do:<br>• Build end-to-end data solutions — ETL/ELT pipelines, data modeling & analytics<br>• Analyze and visualize datasets to uncover meaningful patterns<br>• Write clean, reproducible code in Python, SQL, and notebook environments<br>• Continuously improve with new tools & industry standards<br><br>💡 I’m driven by impact — not just completion. My work reflects careful thought about the problem, methodology, and results achieved.
+<div align="center">
 
+# Amarnath Allamraju
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amarnathallamraju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarnathallamrajar@gmail.com) 
+### 🚀 Data Engineer | Building Scalable Pipelines · Lakehouse Architectures · Real-Time Analytics
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amarnath27me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amarnath27me&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath27me&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnathallamraju)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amarnath27me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarnathallamrajar@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Engineer%20Roles-brightgreen?style=for-the-badge)](mailto:amarnathallamrajar@gmail.com)
+
+📍 Indianapolis, IN &nbsp;|&nbsp; 🇺🇸 Authorized to Work in the U.S. &nbsp;|&nbsp; 🎓 M.S. Purdue University
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amarnath27me&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Data Engineer with **3+ years of experience** designing production-grade ETL/ELT pipelines, lakehouse architectures, and analytics platforms across **AWS, Azure, and Databricks**. I specialize in transforming raw, complex data into reliable, high-performance systems that teams actually depend on.
+
+- 🏗️ &nbsp;Currently building Delta Lake pipelines & Medallion Architecture workflows at **Community Dreams Foundation**
+- ☁️ &nbsp;Experienced across **AWS** (S3, Glue, Lambda, Redshift), **Azure Data Lake**, **Snowflake**, and **Databricks**
+- ⚡ &nbsp;Delivered **35% faster data onboarding**, **40–50% query performance gains**, and **99% on-time delivery SLAs**
+- 📜 &nbsp;**Microsoft Fabric Data Engineer Associate (DP-700)** certification — in progress 2026
+- 🛠️ &nbsp;Creator of **[SQLit](https://sqlit-nu.vercel.app)** — an open-source, full-stack SQL practice platform with 412 problems, a live query engine, and an ER diagram builder
+- 🤝 &nbsp;Open to **hybrid or remote** full-time roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Query**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Cloud & Data Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![GCP BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Orchestration & Transformation**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+**Storage & Architecture**
+
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+
+**DevOps & BI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🗄️ [SQLit — LeetCode for SQL](https://github.com/Amarnath27me/SQLit) &nbsp;·&nbsp; [🌐 Live Demo](https://sqlit-nu.vercel.app)
+> **Full-stack, open-source SQL practice platform — built from scratch · [sqlit-nu.vercel.app](https://sqlit-nu.vercel.app)**
+
+- Engineered a **complete web application** with **412 curated SQL problems** spanning Easy → Hard, with real-world datasets (e-commerce, finance, healthcare)
+- Built an **in-browser SQL engine** supporting SQLite and PostgreSQL with sandboxed execution, timeout protection, and MySQL syntax translation — zero setup required
+- Developed a **Query Optimization Lab** with visual EXPLAIN plan analyzer (Seq Scan vs Index Scan, Nested Loop vs Hash Join) and an interactive **ER Diagram Builder**
+- Shipped full-stack product: **Next.js 16 + TypeScript + FastAPI + PostgreSQL**, deployed on Vercel + Railway with Docker-compose local dev
+- `Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL` `SQLite` `Docker` `Vercel` `Railway` `Tailwind CSS`
+
+---
+
+### 🎬 [Netflix ELT & dbt Pipeline](https://github.com/Amarnath27me/Netflix-ELT-dbt-Pipeline)
+> **Cloud-native ELT pipeline processing 20M+ movie ratings across 27,000+ titles**
+
+- Orchestrated end-to-end pipeline using **Airflow → AWS S3 → Snowflake → dbt** with raw, staging, and serving layers
+- Built **15+ modular dbt models** with built-in data integrity tests and automated validation
+- Achieved **40% query performance improvement** through optimized data modeling
+- `AWS S3` `Snowflake` `dbt` `Apache Airflow` `SQL` `ELT`
+
+---
+
+### 📡 [Real-Time Social Media Event Analytics Pipeline](https://github.com/Amarnath27me/Real-Time-Social-Media-Event-Pipeline-for-User-Engagement-Analytics)
+> **Production-grade streaming platform for real-time engagement analytics & feed personalization**
+
+- Built streaming platform with **PySpark Structured Streaming on Databricks + Delta Lake + Medallion Architecture**
+- Engineered Airflow DAG orchestration handling late-arriving data, shuffle optimization, and partition skew
+- Tackled real production challenges: data quality, caching strategies, and fault-tolerant workflows
+- `Apache Kafka` `PySpark` `Spark Streaming` `Delta Lake` `Databricks` `Airflow` `Medallion Architecture`
+
+---
+
+### 🏛️ [SQL Data Warehouse — Medallion Architecture](https://github.com/Amarnath27me/data-warehouse-project-sql)
+> **Enterprise-grade SQL Server data warehouse integrating ERP + CRM data**
+
+- Architected **Bronze/Silver/Gold Medallion layers** for clean, analytics-ready data
+- Designed **star schema** dimensional model enabling flexible, high-performance reporting
+- Managed version control across a **10-member team**, boosting deployment efficiency by 15%
+- `SQL Server` `T-SQL` `Star Schema` `ETL` `Data Modeling` `GitHub`
+
+---
+
+## 💼 Experience Highlights
+
+| Role | Company | Impact |
+|------|---------|--------|
+| **Data Engineer** | Community Dreams Foundation *(Feb 2025–Present)* | 35% faster onboarding · 40–50% query gains · 99% SLA |
+| **Data Analyst** | HighRadius *(Aug 2021–Jul 2022)* | 50% less manual processing · 35% faster pipelines · 98% on-time |
+| **Teaching Assistant** | IUPUI – School of Engineering *(2023)* | 40% faster grading · SQL Tableau dashboards |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amarnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarnath27me&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath27me&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **M.S. Applied Data Management & Analytics** — Purdue University *(2024)*
+
+📜 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** — *In Progress, 2026*
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **Data Engineer** roles (full-time, hybrid/remote). If you're hiring or want to collaborate, let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnathallamraju)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarnathallamrajar@gmail.com)
+
+---
+
+<div align="center">
+<sub>⚡ Built with purpose. Pipelines run on time. Data doesn't lie.</sub>
+</div>
