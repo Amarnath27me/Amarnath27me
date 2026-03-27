@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarnathallamrajar@gmail.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Engineer%20Roles-brightgreen?style=for-the-badge)](mailto:amarnathallamrajar@gmail.com)
 
-📍 Indianapolis, IN &nbsp;|&nbsp; 🇺🇸 Authorized to Work in the U.S. &nbsp;|&nbsp; 🎓 M.S. Purdue University
+📍 Indianapolis, IN &nbsp;|&nbsp; Authorized to Work in the U.S. &nbsp;|&nbsp; 🎓 M.S. Purdue University
 
 </div>
 
